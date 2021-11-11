@@ -64,16 +64,11 @@
     <!-- Section-->
     <section>
 
-
-
-
         <div id="app">
             <front-page></front-page>
         </div>
 
 
-
-        </div>
     </section>
     <!-- Footer-->
     <footer class="py-5 bg-dark">
